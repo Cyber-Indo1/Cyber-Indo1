@@ -95,7 +95,7 @@ $ pkg update
 $ pkg install git
 $ apt install tor
 $ pkg install python2
-$ git clone https://github.com/dotfighter/torshammer.git
+$ git clone https://github.com/Cyber-Indo1/torshammer.gi
 $ ls
 $ cd torshammer
 $ python2 torshammer.py
